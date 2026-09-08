@@ -132,5 +132,5 @@
     "chat.implicitContext.suggestedContext": false,
     "chat.includeApplyingInstructions": false,
     "extensions.ignoreRecommendations": true,
-    "liveServer.settings.port": 5503, // VSCode Core
+    "liveServer.settings.port": 5504, // VSCode Core
 }
